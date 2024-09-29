@@ -44,6 +44,11 @@ print(torch.cuda.is_available())  # Verifica se a GPU está ativa
 !nvidia-smi  # Mostra o status da GPU
 ```
 
+## Arquivos
+- tech_challenge_fase_3.py: Arquivo para uso no Google Colab com o Google Drive.
+- tech_challenge_fase_3.ipynb: Modelo executado do Colab.
+- tech_challenge_fase_3_local_use.py: Arquivo para uso local. Neste, você deve alterar as rotas para os locais desejados de onde deseja buscar e armazenar as informações.
+
 ## Estrutura do Código
 
 ### Preparação do Dataset
